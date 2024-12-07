@@ -6,9 +6,9 @@
 
 ---
 
-![GitHub Stats](https://img.shields.io/github/stars/TGScripts?label=Stars&logo=github&style=flat-square)  ![Discord](https://img.shields.io/discord/1101900001392721931?label=Discord&logo=discord&style=flat-square) ![TG Docs](https://img.shields.io/badge/Dokumentation-Dokumentation?style=flat-square&logo=GitBook&logoColor=%23BBDDE5&label=TG%20Docs&labelColor=grey&color=%23BBDDE5&link=https%3A%2F%2Ftg-scripts.gitbook.io%2Ftg-docs)
-
-
+![GitHub Stats](https://img.shields.io/github/stars/TGScripts?label=Stars&logo=github&style=flat-square)  
+![Discord](https://img.shields.io/discord/1101900001392721931?label=Discord&logo=discord&style=flat-square) ([Discord Server](https://discord.gg/X2zxGxY6XY))  
+![TG Docs](https://img.shields.io/badge/Dokumentation-Dokumentation?style=flat-square&logo=GitBook&logoColor=%23BBDDE5&label=TG%20Docs&labelColor=grey&color=%23BBDDE5&link=https%3A%2F%2Ftg-scripts.gitbook.io%2Ftg-docs) ([TG Docs](https://tg-scripts.gitbook.io/tg-docs))
 
 ---
 
@@ -75,7 +75,7 @@ Sollten Fehler entdeckt werden oder Verbesserungsvorschläge vorgebracht werden 
 ## 🌟 Community-Support
 TG Scripts lebt von der Community. Wenn dir unsere Arbeit gefällt, unterstütze uns, indem du:
 - ⭐ unsere Projekte **starrst**  
-- Feedback oder Vorschläge in unserem ![Discord](https://img.shields.io/discord/1101900001392721931?label=Discord%20Server&logo=discord&style=flat-square) teilst
+- Feedback oder Vorschläge in unserem [Discord Server](https://discord.gg/X2zxGxY6XY) teilst
 
 ---
 
