@@ -6,7 +6,9 @@
 
 ---
 
-![GitHub Stats](https://img.shields.io/github/stars/TGScripts?label=Stars&logo=github&style=flat-square)  ![Discord](https://img.shields.io/discord/1101900001392721931?label=Discord&logo=discord&style=flat-square)
+![GitHub Stats](https://img.shields.io/github/stars/TGScripts?label=Stars&logo=github&style=flat-square)  ![Discord](https://img.shields.io/discord/1101900001392721931?label=Discord&logo=discord&style=flat-square) ![TG Docs](https://img.shields.io/badge/Dokumentation-Dokumentation?style=flat-square&logo=GitBook&logoColor=%23BBDDE5&label=TG%20Docs&labelColor=grey&color=%23BBDDE5&link=https%3A%2F%2Ftg-scripts.gitbook.io%2Ftg-docs)
+
+
 
 ---
 
@@ -64,7 +66,9 @@ Wir freuen uns, von euch zu hören! Trete mit uns in Kontakt über:
 ### Beiträge und Issues
 Du kannst jederzeit ein **Issue** oder **Pull Request** erstellen. Sollte dein Anliegen nicht innerhalb von 48 Stunden beantwortet werden, kannst du dich gerne direkt im **Discord** bei uns melden, und wir kümmern uns um dein Anliegen.
 
-> Eine offizielle Dokumentation und Website sind in Arbeit – stay tuned!
+### TG Docs
+[TG Docs](https://tg-scripts.gitbook.io/tg-docs) ist unsere eigene Dokumentation zu all unseren Scripts, dort findet man Infos zur **Installation**, **Konfiguration** und **Benutzung** der Scripts.
+Sollten Fehler entdeckt werden oder Verbesserungsvorschläge vorgebracht werden wollen, zögert bitte nicht, in unserem [Discord Server](https://discord.gg/X2zxGxY6XY) im **"#⚾〡feedback"** Channel einen Post zu erstellen.
 
 ---
 
@@ -94,5 +98,3 @@ Abschnitt für Sponsoring- oder Unterstützungsoptionen
 ---
 
 -->
-
-Vielen Dank, dass du ein Teil von TG Scripts bist! 😊
